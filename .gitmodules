@@ -1,0 +1,9 @@
+[submodule "vendors/highlight.js"]
+	path = vendors/highlight.js
+	url = https://github.com/highlightjs/highlight.js.git
+[submodule "vendors/linguist"]
+	path = vendors/linguist
+	url = https://github.com/github/linguist.git
+[submodule "vendors/prism"]
+	path = vendors/prism
+	url = https://github.com/PrismJS/prism.git
