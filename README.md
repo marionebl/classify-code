@@ -1,6 +1,6 @@
 # classify-code
 
-:construction_sitee: Work in progress
+🚧 Work in progress
 
 ## Getting started
 
